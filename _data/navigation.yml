@@ -1,9 +1,9 @@
-- title: Start
-  url: "/"
+- title: Home
+  url: "https://rohansidhu.github.io/CAT125_Website/"
   side: left
 
 - title: Getting Started
-  url: "/getting-started/"
+  url: "https://rohansidhu.github.io/CAT125_Website//getting-started/"
   side: left
 
 - title: "Templates"
@@ -59,17 +59,17 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+#- title: Blog
+#  url: "/blog/"
+#  side: left
+#  dropdown:
+#  - title: "Blog Archive"
+#    url: "/blog/archive/"
 
 - title: "Search"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+#- title: "Contact"
+#  url: "/contact/"
+#  side: right
