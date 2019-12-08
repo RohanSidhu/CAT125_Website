@@ -1,9 +1,9 @@
 - title: Home
-  url: "https://rohansidhu.github.io/CAT125_Website/"
+  url: "/"
   side: left
 
 - title: Getting Started
-  url: "https://rohansidhu.github.io/CAT125_Website//getting-started/"
+  url: "/getting-started/"
   side: left
 
 - title: "Templates"
