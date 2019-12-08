@@ -30,7 +30,7 @@ baseurl: '/CAT125_Website'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://rohansidhu.github.io/CAT125_Website/edit/gh-pages
+improve_content: https://github.com/Phlow/feeling-responsive/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://rohansidhu.github.io/CAT125_Website/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://rohansidhu.github.io/CAT125_Website/images/'
+urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Rohan     # Default author for posts
+      author: phlow     # Default author for posts
 
 
 
@@ -192,9 +192,9 @@ og_type:                            'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-#socialmedia:
-    #twitter: phlow
-    #facebook: phlow.media
+socialmedia:
+    twitter: phlow
+    facebook: phlow.media
 
 
 #        ____  _
@@ -206,7 +206,7 @@ og_type:                            'website'
 #
 # used in _includes/comments
 
-disqus_shortname:
+disqus_shortname: feelingresponsive
 
 
 #      _____
