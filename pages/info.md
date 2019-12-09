@@ -8,26 +8,56 @@ header:
     image_fullwidth: "info.jpeg"
 ---
 
-*Object Oriented Programming* revolves around the idea of having objects. Think simplistically 
+*Object Oriented Programming* revolves around the idea of having objects. Think simplistically! 
 
 
-## Features
+## Simple Objects Like
 
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
+* Cars
+* Animals
+* Books
+* Food
+* Clothes
+* ... it goes on
 
 
+## These objects...
 
-## I got inspired by...
+all have something in common. It is that there are multiple types of each of these objects. Cars for instance:
+
+<div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}sports.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}sedan.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}classic.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+We have a sports car, a simple sedan, or an old time classic. Another examples would be food:
+
+<div class="row">
+    <div class="medium-4 columns t30">
+    <img src="{{ site.urlimg }}snacks.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}entree.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}dessert.jpeg" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+We have snacks, entrees, or desserts just to name a few of the different possibilities!
 
 [Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
 
