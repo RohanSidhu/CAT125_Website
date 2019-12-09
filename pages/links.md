@@ -10,7 +10,7 @@ tags:
     - background color
     - header
 header:
-    title:                                                                           k
+    title: 
 #    pattern: pattern_concrete.jpg
     image_fullwidth: space.jpeg
 ---
