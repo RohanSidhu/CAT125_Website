@@ -10,7 +10,7 @@ tags:
     - header
 header: no
 image:
-    title: lightbot.jpg
+    title: lightbot.png
     caption: Click Here!
     caption_url: https://lightbot.com/
 ---

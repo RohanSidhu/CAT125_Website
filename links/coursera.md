@@ -10,7 +10,7 @@ tags:
     - header
 header: no
 image:
-    title: coursera.jpg
+    title: coursera.jpeg
     caption: Click Here!
     caption_url: https://www.coursera.org/lecture/interactive-python-2/visualizing-objects-3wmyT
 ---

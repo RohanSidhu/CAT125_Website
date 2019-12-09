@@ -10,7 +10,7 @@ tags:
     - header
 header: no
 image:
-    title: codecademy.jpg
+    title: codecademy.png
     caption: Click Here!
     caption_url: https://www.codecademy.com/learn/learn-java
 ---
