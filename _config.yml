@@ -14,7 +14,7 @@ title: 'Object Oriented Programming'
 slogan: 'A quick guide in understanding object oriented languages!'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Object oriented programming is a high level concept that languages like Java, C++, and others use!'
+description: 'Object oriented programming is a high level concept that languages like Java, C++, and others!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created with help from <a href="http://phlow.de/">Phlow</a>'
@@ -25,8 +25,8 @@ author: RohanSidhu
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://phlow.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://rohansidhu.github.io/CAT125_Website'
+baseurl: '/CAT125_Website'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
