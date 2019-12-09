@@ -5,7 +5,9 @@ title:  "All About Me"
 teaser: "Who am I?"
 categories:
     - design
-
+tags:
+    - design
+    - background color
 header:
     title:  
 #    pattern: pattern_concrete.jpg
