@@ -44,9 +44,17 @@ Check it out if you want to further you knowledge about Object Oriented Programm
 ## Critique Tab
 The [Critique][6] tab is a discussion that I have about a website called Geek for Geeks. Check it out if you want to see my thoughts and opinions about other sites. 
 
+## Search Tab
+Trouble finding something specific? The [Search][7] tab allows you to search the entire website! So if you lose something you found interesting, just use the search tab. 
+
+## Contact Tab
+Want to get in touch with me? The [Contact][8] tab provides some contact info so you can reach out to me about any comments, questions, or concerns. 
+
 [1]: {{ site.url }}{{ site.baseurl }}/about_me/
 [2]: {{ site.url }}{{ site.baseurl }}/my_projects/
 [3]: {{ site.url }}{{ site.baseurl }}/contact/
 [4]: {{ site.url }}{{ site.baseurl }}/info/
 [5]: {{ site.url }}{{ site.baseurl }}/links/
 [6]: {{ site.url }}{{ site.baseurl }}/critiques/
+[7]: {{ site.url }}{{ site.baseurl }}/search/
+[8]: {{ site.url }}{{ site.baseurl }}/contact/
