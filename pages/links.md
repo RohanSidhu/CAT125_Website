@@ -12,7 +12,7 @@ tags:
 image:
    thumb: "space.jpeg"
 header:
-    image_fullwidth: "space.jpg"
+   image_fullwidth: "space.jpeg"
 ---
 If you hover of the links bar above, the dropbox will provide you some links that I personally find useful! 
 
