@@ -6,7 +6,7 @@ subheadline: "A Simple Robot Game"
 teaser: "This game will provide you a quick glimpse on how to code without the code."
 header:
    image_fullwidth: "header_homepage_13.jpg"
-permalink: "/lightbot/"
+permalink: "/links/lightbot/"
 ---
 1. Open `_config.yml` and work it through, it's well documented
 1. Add your own `logo.png` to `/assets/img/`.
