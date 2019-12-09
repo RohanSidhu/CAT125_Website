@@ -73,57 +73,77 @@ Within each of these groups, we see animals that share similar characteristics. 
 ​
 For each of those groups, think of them as ​objects. So the mammal group can be a single *object*. In that specific object, we can have actions like "noise" or "eat".
 
-​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to *inherit* from that mammal instead of creating a whole other object.
+~~~
+class Dog {
+    public Dog() {}
+    public void noise() {
+        System.out.println("Bark! Bark!");
+    }
+    public void eat() {
+        System.out.println("Eats dog food.");
+    }	 
+}
+~~~
+
+This dog object has the two functions, noise and eat. These are specific to this object. Therefore, suppose we did:
+
+~~~ 
+    Dog pug = new Dog();
+    pug.noise();
+~~~
+
+We would have our pug say *Bark! Bark!*. This is in essence what an object is, a class with different functions and attributes that this object can do and have. 
+
+​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to *inherit* from that mammal instead of creating a whole other object. We can do the same with when creating a Wolf object too. 
 
 We reduce the amount of work we have and code that we have to write by harnessing the power of OOP. We don't have to re-write the code for "eat" because our mammal object already has it.
 
 To showcase the difference, let's examine the code below. The top is creating this mammal object and then creating a dog object. The second is creating the mammal object and then a brand new dog object.
 
 ~~~
-abstract class Animal {
-	// abstract methods
-	abstract void noise();
-	abstract void eat();
+abstract class Mammal {
+    // abstract methods
+    abstract void noise();
+    abstract void eat();
 }
 
-class Dog extends Animal {
+class Dog extends Mammal {
     void noise() {
-		 System.out.println("Bark! Bark!");
-     }
-	void eat() {
-		 System.out.println("Eats dog food.");
+        System.out.println("Bark! Bark!");
+    }
+    void eat() {
+        System.out.println("Eats dog food.");
     }	 
 }
 
-class Wolf extends Animal {
+class Wolf extends Mammal {
     void noise() {
-	    System.out.println("Oowhoo");
-	}
+        System.out.println("Oowhoo");
+    }
     void eat() {
         System.out.println("Eats sheep.");
-	}
+    }
 }
 ~~~
 
 Above, we can see how Dog and Wolf both were able to reuse the same methods and adapt it. If we look below, we can see how slightly inefficient it would be if we didn't use objects and inherit.
 
 ~~~
-
 class Dog {
     public Dog() {}
     public void noise() {
-		 System.out.println("Bark! Bark!");
-     }
-	public void eat() {
-		 System.out.println("Eats dog food.");
+        System.out.println("Bark! Bark!");
+    }
+    public void eat() {
+        System.out.println("Eats dog food.");
     }	 
 }
 
 class Wolf  {
     public Wolf() {}
-    publiv void noise() {
-	    System.out.println("Oowhoo");
-	}
+    public void noise() {
+        System.out.println("Oowhoo");
+    }
     public void eat() {
         System.out.println("Eats sheep.");
     }
@@ -131,3 +151,4 @@ class Wolf  {
 ~~~
 
 The difference is minute but becomes a larger problem when dealing will a plethora of objects. The difference is how we have to initialize a constructor for each object we are working with. 
+
