@@ -8,7 +8,6 @@ categories:
 tags:
     - design
     - background color
-    - header
 header:
     title: 
 #    pattern: pattern_concrete.jpg
