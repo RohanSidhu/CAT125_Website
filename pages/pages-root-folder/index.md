@@ -1,5 +1,5 @@
 ---
-layout: page-fullwidth
+layout: frontpage
 title:  "All About Me"
 teaser: "Who am I?"
 categories:
