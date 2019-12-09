@@ -6,7 +6,7 @@
   url: "/about-me/"
   side: left
 
-- title: "Links"
+- title: Links
   url: "/links/"
   side: left
   dropdown:
@@ -21,7 +21,7 @@
   - title: "MIT 6.0001"
     url: "/links/mit_6.0001/"
 
-- title: "Critiques"
+- title: Critiques
   url: "/critiques/"
   side: left
   dropdown:
@@ -36,11 +36,10 @@
   - title: "Critique 5"
     url: "/critiques/critique_5/"
 
-
-- title: "Search"
+- title: Search
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: Contact
   url: "/contact/"
   side: right
