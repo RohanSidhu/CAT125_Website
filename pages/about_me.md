@@ -13,12 +13,12 @@ I am a student at the University of California, San Diego pursing a Mathematics 
 
 <div class="row">
     <div class="medium-8 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+    <img src="{{ site.urlimg }}orb.png" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+      <img src="{{ site.urlimg }}slots.png" alt="">
+      <img class="t30" src="{{ site.urlimg }}mickey.png" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
