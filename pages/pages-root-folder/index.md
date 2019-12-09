@@ -4,9 +4,9 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: page
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: world.jpeg
 
 permalink: /index.html
 #
@@ -15,5 +15,30 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+I am a student at the University of California, San Diego pursing a Mathematics and Computer Science Degree. After taking my lower division computer science course, I've learned that I am a slow learner and needed other material beside a textbook to teach me information. 
+
+All of the languages that I've learned were Object Oriented, hence I decided to make a website explaining it all! I remember struggling with Java as I had no idea what an object was. My TA's knew me by name because of how much helped I've needed. This website is a miniature guide for individuals who are learning about Object Oriented Programming!
+
+Each of these projects below me all involved Object Oriented Programming! They were super fun when designing and I have learned so much through these projects.
+
+<div class="row">
+    <div class="medium-8 columns t30">
+    <img src="{{ site.urlimg }}orb.png" alt="">
+    </div><!-- /.medium-8.columns -->
+
+    <div class="medium-4 columns t30">
+      <img src="{{ site.urlimg }}city.png" alt="">
+      <img class="t30" src="{{ site.urlimg }}mickey.png" alt="">
+    </div><!-- /.medium-4.columns -->
+
+</div><!-- /.row -->
+
+The first one on the left is called CrazyOrbs! This game allows a user to click on the plane and place these dynamically changing orbs. These orbs change colors, can be moved around, and can shrink/enlarge at different speeds.
+
+The second one is on the right, on the top. This project is about having multiple objects and creating simple pictures with them. This one is a cityscape that uses rectangles, triangles, and circles to create the picture. 
+
+The last one is on the bottom right. This project was fairly simple and one of the one of beginning projects I completed. The user can click on the canvas and it will spawn a mickey silhouette. It is draggable and disappears if the user takes the mouse away from the canvas. 
+
 
 
