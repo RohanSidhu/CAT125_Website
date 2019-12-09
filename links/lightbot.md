@@ -11,6 +11,8 @@ tags:
 header: no
 image:
     title: lightbot.jpg
+    caption: Click Here!
+    caption_url: https://lightbot.com/
 ---
 First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
 <!--more-->
@@ -22,10 +24,3 @@ image:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ~~~
-
-
-### All Header-Styles
-{: .t60 }
-
-{% include list-posts tag='header' %}
----
