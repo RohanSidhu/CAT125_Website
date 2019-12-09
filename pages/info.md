@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+title: "Object Oriented Programming"
+subheadline: "What is this all about?"
+teaser: "With anything one learns, they must learn the fundamentals. This is a fundamental for programming"
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "info.jpg"
 ---
 ...and learn at the same time.
 
