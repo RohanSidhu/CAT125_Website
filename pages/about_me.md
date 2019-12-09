@@ -5,8 +5,11 @@ title:  "All About Me"
 teaser: "Who am I?"
 categories:
     - design
+
 header:
-   image_fullwidth: about_me.jpeg
+    title:  
+#    pattern: pattern_concrete.jpg
+    image_fullwidth: about_me.jpeg
 ---
 I am a student at the University of California, San Diego pursing a Mathematics and Computer Science Degree. After taking my lower division computer science course, I've learned that I am a slow learner and needed other material beside a textbook to teach me information. 
 
