@@ -38,7 +38,7 @@ all have something in common. It is that there are multiple types of each of the
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-We have a sports car, a simple sedan, or an old time classic. Another examples would be food:
+We have a sports car, a simple sedan, or an old time classic. Another example would be food:
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}snacks.jpeg" alt="">
@@ -55,7 +55,7 @@ We have a sports car, a simple sedan, or an old time classic. Another examples w
 </div><!-- /.row -->
 We have snacks, entrees, or desserts just to name a few of the different possibilities!
 
-With this idea in the back of your mind, lets look at an example. 
+With this idea in the back of your mind, let's look at an example. 
 
 ## Example: Animal Kingdom
 We can divide them into a few different groups:
@@ -94,7 +94,7 @@ We would have our pug say *Bark! Bark!* This is in essence what an object is, a 
 
 We reduce the amount of work we have and code that we have to write by harnessing the power of OOP. We don't have to re-write the code for "eat" because our mammal object already has it.
 
-To showcase the difference, let's examine the code below. The top is creating this mammal object and then creating a dog object. The second is creating the mammal object and then a brand new dog object.
+To showcase the difference, let's examine the code below. The first sample is creating this mammal object and then creating a dog object pulling from the mammal object. The second sample is creating the mammal object and then a brand new dog object, completely independent of one another.
 
 ~~~
 abstract class Mammal {
@@ -148,3 +148,4 @@ class Wolf  {
 
 The difference is minute but becomes a larger problem when dealing will a plethora of objects. The difference is how we have to initialize a constructor for each object we are working with. 
 
+This in the end shows how having inheritance and objects can ultimately save us time and code. When working with bigger products, such as Amazon.com, using OOP can prove to be significantly efficient!

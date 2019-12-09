@@ -13,7 +13,7 @@ header:
 #    pattern: pattern_concrete.jpg
     image_fullwidth: judge.jpeg
 ---
-[Geeks for Geeks][1] is a website that explore various computer science topics. They offer a range of interview questions, videos, and sample code for others to see. 
+[Geeks for Geeks][1] is a website that explores various computer science topics. They offer a range of interview questions, videos, and sample code for others to see. 
 
 I personally have used Geeks for Geeks in the past and I do appreciate the amount of work and effort that is put into the maintenance of the website. However, there are a few flaws that I personally find troubling.
 
@@ -24,10 +24,10 @@ When creating a guide, it is imperative that the author explain what the concept
 
 Geeks for Geeks's audience is experienced programmers, hence I do not believe that this may be an appropriate site when beginning learn Object Oriented Programming. 
 
-However, do know that this site is useful in its own ways! I personally have used this site when I need a refresher on topics that I haven't seen in a while.
+However, do know that this site is useful in its own ways! I personally have used this site when I needed a refresher on topics that I haven't seen in a while.
 
 ## Second: Over Doing It
-When explaining the premise of Object Oriented programming, Geek for Geeks begin to explain everything. The go over Inheritance, Polymorphism, Encapsulation, and others are in one go. 
+When explaining the premise of Object Oriented programming, Geek for Geeks begin to explain everything. The go over Inheritance, Polymorphism, Encapsulation, and others all in one go. 
 
 This becomes a little overwhelming for the reader as there is this splurge of information. 
 
@@ -38,7 +38,7 @@ All of the material on the website is good content, however, how is the reader s
 
 The last problem that I see with this guide is how there aren't many resources that they offer to seek further information. 
 
-Having other resources allow the reader to explore and figure out more about certain topics, such as encapsulation, on their own if needed. The lack of resources make it difficult for the reader to have a complete understanding if they are not able to understand the information in the first pass. 
+Having other resources allow the reader to explore and figure out more about certain topics, such as encapsulation, on their own if needed. The lack of resources make it difficult for the reader to have a complete understanding if they are not able to understand the information on their first pass. 
 
 ## Overall...
 this website is useful! As mentioned previously, I used this website to study for interviews and brush up on certain key concepts. However, for a complete beginner, I suggest visiting a different site.

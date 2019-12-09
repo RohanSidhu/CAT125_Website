@@ -21,13 +21,13 @@ homepage: true
 ## What is that? 
 Object oriented programming is a programming design where we have these objects when working with our code. These objects can hold different methods, attributes, and data exclusive to that object. 
 
-This site has *all* the essentials you need in getting started understanding object oriented programming. 
+This site has *all* the essentials you need in getting started with object oriented programming. 
 
 ## About Me 
 The [About Me][1] tab provides a brief synopsis of who I am, and what I am currently doing. It provides a great insight of what I do.
 
 ## My Projects
-The [My Projects][2] tab showcases a few of the projects that I worked on independently when learning Object Oriented Programming. There are range of projects that I have done, and these is just a glimpse.
+The [My Projects][2] tab showcases a few of the projects that I've worked on independently when learning Object Oriented Programming. There are range of projects that I have done, and these are just a glimpse.
 
 If you want to see my other projects, go to the [Contact][3] tab for more information on how to get in touch with me! 
 
@@ -48,7 +48,7 @@ The [Critique][6] tab is a discussion that I have about a website called Geek fo
 Trouble finding something specific? The [Search][7] tab allows you to search the entire website! So if you lose something you found interesting, just use the search tab. 
 
 ## Contact
-Want to get in touch with me? The [Contact][8] tab provides some contact info so you can reach out to me about any comments, questions, or concerns. 
+Want to get in touch with me? The [Contact][8] tab provides some contact info so you can reach out to me about any comments, questions, complaints, or concerns. 
 
 [1]: {{ site.url }}{{ site.baseurl }}/about_me/
 [2]: {{ site.url }}{{ site.baseurl }}/my_projects/

@@ -43,5 +43,5 @@ I was on the implementation team and I worked alongside two others who coded nea
 
 I was able to enhance my Object Oriented Programming skills by using a different language, C#. I have never worked with C# before, however, it does resemble Java and C++ making it easy to pick up.
 
-Our project will be presented in May 2020 at the AR/VR Summit in Los Angeles and I will be there supporting our team!
+Our project will be presented on May 2020 at the AR/VR Summit in Los Angeles and I will be there supporting our team!
 

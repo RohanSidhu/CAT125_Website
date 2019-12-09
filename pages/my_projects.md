@@ -43,7 +43,7 @@ The different shape objects that I had were:
 * Triangle 
 
 ## Mickey Mouse
-The last one is on the bottom right. This project was fairly simple and one of the one of beginning projects I completed. The user can click on the canvas and it will spawn a mickey silhouette. It is draggable and disappears if the user takes the mouse away from the canvas.
+The last one is on the bottom right. This project was fairly simple and one of the first projects I completed. The user can click on the canvas and it will spawn a mickey silhouette. It is draggable and disappears if the user takes the mouse away from the canvas.
 
 It is unable to be seen through the picture, but if the user was to drag the mickey across the screen, it also changes color and moves with the mouse! 
 

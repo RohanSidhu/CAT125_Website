@@ -14,6 +14,6 @@ image:
     caption: Click Here!
     caption_url: https://www.youtube.com/watch?v=-DP1i2ZU9gk
 ---
-MIT has all of their computer science courses broadcasted online. This link gives the video where they cover OOP with Python. It is useful for individuals who like listening to the conceptual and working with examples.
+MIT has all of their computer science courses broadcasted online. This link gives the video where they cover OOP with Python. It is useful for individuals who like listening to the conceptual idea and working with examples.
 
 I still use MIT's lectures as they are eloquently structured and teach course material in a simple and organized way.
