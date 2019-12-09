@@ -24,7 +24,6 @@ header:
 ## These objects...
 
 all have something in common. It is that there are multiple types of each of these objects. Cars for instance:
-
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}sports.jpeg" alt="">
@@ -39,9 +38,7 @@ all have something in common. It is that there are multiple types of each of the
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
 We have a sports car, a simple sedan, or an old time classic. Another examples would be food:
-
 <div class="row">
     <div class="medium-4 columns t30">
     <img src="{{ site.urlimg }}snacks.jpeg" alt="">
@@ -56,7 +53,6 @@ We have a sports car, a simple sedan, or an old time classic. Another examples w
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
-
 We have snacks, entrees, or desserts just to name a few of the different possibilities!
 
 With this idea in the back of your mind, lets look at an example. 
