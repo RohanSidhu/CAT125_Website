@@ -6,6 +6,10 @@
   url: "/about_me/"
   side: left
 
+- title: My Projects
+  url: "/my_projects/"
+  side: left
+
 - title: Learn
   url: "/info/"
   side: left
