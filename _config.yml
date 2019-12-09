@@ -25,9 +25,9 @@ author: RohanSidhu
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://rohansidhu.github.io/CAT125_Website'
+url: 'https://rohansidhu.github.io'
 # url: 'https://phlow.github.io'
-baseurl: ''
+baseurl: '/CAT125_Website'
 # baseurl: '/feeling-responsive'
 
 # This is for the editing function in _/includes/improve_content
