@@ -19,8 +19,12 @@ Over time, I found a plethora of resources, some of which can be found under the
 
 Now I am currently learning and investigating other design patterns to branch out and learn other styles of programming!
 
+In my recent course, CSE 110 - Software Engineering, we explored these different design patterns. With these design patterns, I hope to utilize all of my knowledge about coding and programming to develop applications for the education system.
+
 ## My Experience 
 Recently, I have completed an internship at this small company called PVNet. I worked on a project with small group of eight other individuals. We developed this application for students in school on Magic Leap One, an augmented reality headset.
+
+I was on the implementation team and I worked alongside two others who coded nearly every day for this project. Due to copyright, I can not explain the content of the game, however, it will be presented later next year.
 
 <div class="row">
     <div class="medium-4 columns t30">
