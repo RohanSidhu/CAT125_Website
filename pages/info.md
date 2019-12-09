@@ -71,8 +71,10 @@ We can divide them into a few different groups:
 
 Within each of these groups, we see animals that share similar characteristics. For instance, in the mammal group, we have dogs and wolves. Though different, they can both eat meat and howl. 
 ​
-For each of those groups, think of them as ​objects. So the mammal group can be a single object. In that specific object, we can have actions like "make noise" or "eat".
+For each of those groups, think of them as ​objects. So the mammal group can be a single *object*. In that specific object, we can have actions like "make noise" or "eat".
 
-​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to inherit from that mammal instead of creating a whole other object.
+​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to *inherit* from that mammal instead of creating a whole other object.
 
 We reduce the amount of work we have and code that we have to write by harnessing the power of OOP. We don't have to re-write the code for "eat" because our mammal object already has it.
+
+To showcase the difference, let's examine the code below. The top is creating this mammal object and then creating a dog object. The second is creating the mammal object and then a brand new dog object.
