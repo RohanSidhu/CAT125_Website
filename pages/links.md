@@ -14,7 +14,7 @@ header:
 #    pattern: pattern_concrete.jpg
     image_fullwidth: space.jpeg
 ---
-If you hover of the links bar above, the dropbox will provide you some links that I personally find useful! 
+Hover over the links bar above, the dropbox will provide you some sites that I personally find useful! 
 
 These links vary from a specific MIT lecture about Object Oriented Programming to fun games like Lightbot. 
 
