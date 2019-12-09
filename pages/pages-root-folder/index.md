@@ -12,6 +12,7 @@ header:
 #    pattern: pattern_concrete.jpg
     image_fullwidth: about_me.jpeg
 ---
+homepage: true
 I am a student at the University of California, San Diego pursing a Mathematics and Computer Science Degree. After taking my lower division computer science course, I've learned that I am a slow learner and needed other material beside a textbook to teach me information. 
 
 All of the languages that I've learned were Object Oriented, hence I decided to make a website explaining it all! I remember struggling with Java as I had no idea what an object was. My TA's knew me by name because of how much helped I've needed. This website is a miniature guide for individuals who are learning about Object Oriented Programming!
