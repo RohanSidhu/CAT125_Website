@@ -1,6 +1,6 @@
 ---
 layout: page
-ermalink: "/contact/"
+permalink: "/contact/"
 title: "Contact"
 meta_title: "Contact and use our contact form"
 teaser: "Get in touch with me? Email me for more information!"
