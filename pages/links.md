@@ -9,9 +9,7 @@ tags:
     - design
     - background color
     - header
-header:
-    title: 
-#    pattern: pattern_concrete.jpg
+image:
     image_fullwidth: space.jpeg
 ---
 If you hover of the links bar above, the dropbox will provide you some links that I personally find useful! 
