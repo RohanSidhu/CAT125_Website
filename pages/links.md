@@ -9,8 +9,7 @@ tags:
     - design
     - background color
     - header
-image:
-   thumb: "space.jpeg"
+
 header:
    image_fullwidth: "space.jpeg"
 ---
