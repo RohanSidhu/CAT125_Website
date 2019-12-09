@@ -36,6 +36,12 @@ The second one is on the right, on the top. This project is about having multipl
 
 This was just a sample picture that was created, since the code only created the shapes, I am able to create other shapes too like reconstructing the mickey mouse silhouette. 
 
+The different shape objects that I had were:
+* Rectangle 
+* Circle
+* Line 
+* Triangle 
+
 ## Mickey Mouse
 The last one is on the bottom right. This project was fairly simple and one of the one of beginning projects I completed. The user can click on the canvas and it will spawn a mickey silhouette. It is draggable and disappears if the user takes the mouse away from the canvas.
 
