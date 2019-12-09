@@ -10,7 +10,7 @@ tags:
     - background color
     - header
 
-header:
+header: no
    image_fullwidth: "space.jpeg"
 ---
 If you hover of the links bar above, the dropbox will provide you some links that I personally find useful! 
