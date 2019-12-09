@@ -3,7 +3,7 @@
   side: left
 
 - title: About Me
-  url: "/about_me/ "
+  url: "/about_me/"
   side: left
 
 - title: Learn
@@ -25,20 +25,9 @@
   - title: "MIT 6.0001"
     url: "/links/mit_6.0001/"
 
-- title: Critiques
+- title: Critique
   url: "/critiques/"
   side: left
-  dropdown:
-  - title: "Critique 1"
-    url: "/critiques/critique_1/"
-  - title: "Critique 2"
-    url: "/critiques/critique_2/"
-  - title: "Critique 3"
-    url: "/critiques/critique_3/"
-  - title: "Critique 4"
-    url: "/critiques/critique_4/"
-  - title: "Critique 5"
-    url: "/critiques/critique_5/"
 
 - title: Search
   url: "/search/"

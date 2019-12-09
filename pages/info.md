@@ -92,7 +92,7 @@ This dog object has the two functions, noise and eat. These are specific to this
     pug.noise();
 ~~~
 
-We would have our pug say *Bark! Bark!*. This is in essence what an object is, a class with different functions and attributes that this object can do and have. 
+We would have our pug say *Bark! Bark!* This is in essence what an object is, a class with different functions and attributes that this object can do and have. 
 
 ​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to *inherit* from that mammal instead of creating a whole other object. We can do the same with when creating a Wolf object too. 
 
