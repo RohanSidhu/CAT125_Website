@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /links/
 title:  "Links"
 teaser: "If you were interested in diving deeper!"
 categories:
