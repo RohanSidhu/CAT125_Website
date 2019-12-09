@@ -24,22 +24,29 @@ Object oriented programming is a programming design where we have these objects 
 This site has *all* the essentials you need in getting started understanding object oriented programming. 
 
 ## About Me
-The *About Me* tab provides a brief synopsis of who I am, and what I am currently doing. It provides a great insight of what I do.
+The [About Me][1] tab provides a brief synopsis of who I am, and what I am currently doing. It provides a great insight of what I do.
 
 ## My Projects Tab
-The *My Projects* tab showcases a few of the projects that I worked on independently when learning Object Oriented Programming. There are range of projects that I have done, and these is just a glimpse.
+The [My Projects][2] tab showcases a few of the projects that I worked on independently when learning Object Oriented Programming. There are range of projects that I have done, and these is just a glimpse.
 
-If you want to see my other projects, go to the *Contact* tab for more information on how to get in touch with me! 
+If you want to see my other projects, go to the [Contact][3] tab for more information on how to get in touch with me! 
 
 ## Learn Tab
-Check out the *Learn* tab to understand what exactly is Object Oriented Programming with a neat example!
+Check out the [Learn][4] tab to understand what exactly is Object Oriented Programming with a neat example!
 
 There is some code that is provided to show you what exactly is going on.
 
 ## Links Tab
-The *Links* tab provides useful resources that I personally have used through my undergraduate career. There are also sample projects that you can try out on your own to test your knowledge with Object Oriented Programming!
+The [Links][5] tab provides useful resources that I personally have used through my undergraduate career. There are also sample projects that you can try out on your own to test your knowledge with Object Oriented Programming!
 
 Check it out if you want to further you knowledge about Object Oriented Programming. 
 
 ## Critique Tab
-The *Critique* tab is a discussion that I have about a website called Geek for Geeks. Check it out if you want to see my thoughts and opinions about other sites. 
+The [Critique][6] tab is a discussion that I have about a website called Geek for Geeks. Check it out if you want to see my thoughts and opinions about other sites. 
+
+[1]: {{ site.url }}{{ site.baseurl }}/about_me/
+[2]: {{ site.url }}{{ site.baseurl }}/my_projects/
+[3]: {{ site.url }}{{ site.baseurl }}/contact/
+[4]: {{ site.url }}{{ site.baseurl }}/info/
+[5]: {{ site.url }}{{ site.baseurl }}/links/
+[6]: {{ site.url }}{{ site.baseurl }}/critiques/
