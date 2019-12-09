@@ -8,7 +8,7 @@ header:
     image_fullwidth: "info.jpeg"
 ---
 
-*Object Oriented Programming* revolves around the idea of having objects. Think simplistically! 
+*Object Oriented Programming*, or OOP for short, revolves around the idea of having objects. Think simplistically! 
 
 
 ## Simple Objects Like
@@ -74,3 +74,5 @@ Within each of these groups, we see animals that share similar characteristics. 
 For each of those groups, think of them as ​objects. So the mammal group can be a single object. In that specific object, we can have actions like "make noise" or "eat".
 
 ​Suppose now we want to make a dog. Since a dog is a mammal, we can create a dog object and pull actions from the mammal object such as "eat" since they share that attribute. That mammal object allowed us to inherit from that mammal instead of creating a whole other object.
+
+We reduce the amount of work we have and code that we have to write by harnessing the power of OOP. We don't have to re-write the code for "eat" because our mammal object already has it.
