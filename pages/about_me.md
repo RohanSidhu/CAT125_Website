@@ -15,32 +15,18 @@ All of the languages that I've learned were Object Oriented, hence I decided to 
 <!--more-->
 
 <div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}orb.png" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}slots.png" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}mickey.png" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-<div class="row">
     <div class="medium-8 columns t30">
     <img src="{{ site.urlimg }}orb.png" alt="">
     </div><!-- /.medium-8.columns -->
 
     <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}slots.png" alt="">
+      <img src="{{ site.urlimg }}city.png" alt="">
       <img class="t30" src="{{ site.urlimg }}mickey.png" alt="">
     </div><!-- /.medium-4.columns -->
 
 </div><!-- /.row -->
 
+These pictures above are a few of the programs that I designed and worked on. The first one on the left is called CrazyOrbs! This game allows a user to click on the plane and place these dynamically changing orbs. These orbs change colors, can be moved around, and can shrink/enlarge at different speeds.
 
 
  [1]: http://foundation.zurb.com/docs/components/grid.html
