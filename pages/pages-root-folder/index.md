@@ -23,31 +23,31 @@ Object oriented programming is a programming design where we have these objects 
 
 This site has *all* the essentials you need in getting started understanding object oriented programming. 
 
-## About Me
+## About Me 
 The [About Me][1] tab provides a brief synopsis of who I am, and what I am currently doing. It provides a great insight of what I do.
 
-## My Projects Tab
+## My Projects
 The [My Projects][2] tab showcases a few of the projects that I worked on independently when learning Object Oriented Programming. There are range of projects that I have done, and these is just a glimpse.
 
 If you want to see my other projects, go to the [Contact][3] tab for more information on how to get in touch with me! 
 
-## Learn Tab
+## Learn
 Check out the [Learn][4] tab to understand what exactly is Object Oriented Programming with a neat example!
 
 There is some code that is provided to show you what exactly is going on.
 
-## Links Tab
+## Links
 The [Links][5] tab provides useful resources that I personally have used through my undergraduate career. There are also sample projects that you can try out on your own to test your knowledge with Object Oriented Programming!
 
 Check it out if you want to further you knowledge about Object Oriented Programming. 
 
-## Critique Tab
+## Critique
 The [Critique][6] tab is a discussion that I have about a website called Geek for Geeks. Check it out if you want to see my thoughts and opinions about other sites. 
 
-## Search Tab
+## Search
 Trouble finding something specific? The [Search][7] tab allows you to search the entire website! So if you lose something you found interesting, just use the search tab. 
 
-## Contact Tab
+## Contact
 Want to get in touch with me? The [Contact][8] tab provides some contact info so you can reach out to me about any comments, questions, or concerns. 
 
 [1]: {{ site.url }}{{ site.baseurl }}/about_me/
