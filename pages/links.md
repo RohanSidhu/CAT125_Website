@@ -10,9 +10,9 @@ tags:
     - background color
     - header
 header:
-    title: header with text
+    title:
 #    pattern: pattern_concrete.jpg
-    image_fullwidth: space.jpeg.jpg
+    image_fullwidth: space.jpeg
 ---
 If you hover of the links bar above, the dropbox will provide you some links that I personally find useful! 
 
