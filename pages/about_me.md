@@ -24,7 +24,7 @@ Recently, I have completed an internship at this small company called PVNet. I w
 
 <div class="row">
     <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}pvnet.jpg" alt="">
+    <img src="{{ site.urlimg }}pvnet.png" alt="">
     </div><!-- /.medium-4.columns -->
         
     <div class="medium-4 columns t30">
@@ -38,4 +38,6 @@ Recently, I have completed an internship at this small company called PVNet. I w
 </div><!-- /.row -->
 
 I was able to enhance my Object Oriented Programming skills by using a different language, C#. I have never worked with C# before, however, it does resemble Java and C++ making it easy to pick up.
+
+Our project will be presented in May 2020 at the AR/VR Summit in Los Angeles and I will be there supporting our team!
 
